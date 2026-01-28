@@ -1,9 +1,10 @@
-### Hi there 👋 I’m Alexander Nordgren
+<h2>Hi there 👋 I’m Alexander Nordgren</h2>
 
 ***
 <table border="0">
  <tr>
     <td width="55%">
+     <h3>
       I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
 
 - 🤓 I am passionate about software development, AI, and data-driven applications.
@@ -11,6 +12,7 @@
 - 🎯 I plan to pursue a Master’s in Machine Learning.
 
 During my free time, I enjoy learning about new tools, exploring tech trends, and developing personal projects.
+     </h3>
     </td>
     <td width="45%" valign="top">
     <!-- Clickable repo cards -->
