@@ -1,6 +1,7 @@
-<h2>Hi there 👋 I’m Alexander Nordgren</h2>
+## Hi there 👋 I’m Alexander Nordgren
 
 ***
+
 <table border="0">
  <tr>
     <td width="55%">
