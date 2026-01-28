@@ -3,7 +3,7 @@
 ***
 <table border="0">
  <tr>
-    <td>
+    <td width="55%">
       I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
 
 - 🤓 I am passionate about software development, AI, and data-driven applications.
@@ -12,10 +12,10 @@
 
 During my free time, I enjoy learning about new tools, exploring tech trends, and developing personal projects.
     </td>
-    <td>
+    <td width="45%" valign="top">
     <!-- Clickable repo cards -->
     [![KTH-GPT](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=KTH-GPT&theme=radical&show_owner=true)](https://github.com/ImAlno/KTH-GPT)
-    <br/>
+    <br/><br/>
     [![Recruitment-Application](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=Recruitment-Application&theme=radical&show_owner=true)](https://github.com/ImAlno/Recruitment-Application)
     </td>
  </tr>
