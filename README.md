@@ -6,13 +6,13 @@
     <td width="55%" valign="top">
      <h4>About Me</h4>
 
-  I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
+  Third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
 
-  - I am passionate about software development, AI, and data-driven applications.
-  - I plan to pursue a Master’s in Machine Learning.
+  - Passionate about software development, AI, and data-driven applications.
+  - Aspiring to pursue a Master’s in Machine Learning.
   - Currently conducting my Bachelor’s degree project, focusing on Retrieval-Augmented Generation (RAG) for AI applications.
 
-  During my free time, I enjoy learning about new tools, exploring tech trends, and developing personal projects.
+  Continuously exploring emerging technologies and building personal projects.
     </td>
     </td>
     <td width="45%" valign="top">
