@@ -1,4 +1,6 @@
-Hi there 👋 I’m Alexander Nordgren
+### Hi there 👋 I’m Alexander Nordgren
+
+***
 
 I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
 
