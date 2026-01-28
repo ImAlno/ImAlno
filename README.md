@@ -1,11 +1,10 @@
-## Hi there 👋 I’m Alexander Nordgren
 
 ***
 
 <table border="0">
  <tr>
     <td width="55%" valign="top">
-     <h3>About Me</h3>
+     <h4>About Me</h4>
 
   I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
 
@@ -25,8 +24,6 @@
 </table>
 
 ***
-
-### 💻 Technologies & Frameworks
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36" title="Java"/>
