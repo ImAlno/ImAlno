@@ -10,6 +10,7 @@
 
   - I am passionate about software development, AI, and data-driven applications.
   - I plan to pursue a Master’s in Machine Learning.
+  - Currently conducting my Bachelor’s degree project, focusing on Retrieval-Augmented Generation (RAG) for AI applications.
 
   During my free time, I enjoy learning about new tools, exploring tech trends, and developing personal projects.
     </td>
