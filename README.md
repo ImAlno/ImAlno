@@ -4,22 +4,22 @@
 
 <table border="0">
  <tr>
-    <td width="55%">
-     <h3>
-      I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
+    <td width="55%" valign="top">
+     <h3>About Me</h3>
 
-- 🤓 I am passionate about software development, AI, and data-driven applications.
+  I’m a third-year Bachelor’s student at KTH Royal Institute of Technology, with a strong interest in artificial intelligence.
 
-- 🎯 I plan to pursue a Master’s in Machine Learning.
+  - 🤓 I am passionate about software development, AI, and data-driven applications.
+  - 🎯 I plan to pursue a Master’s in Machine Learning.
 
-During my free time, I enjoy learning about new tools, exploring tech trends, and developing personal projects.
-     </h3>
+  During my free time, I enjoy learning about new tools, exploring tech trends, and developing personal projects.
+    </td>
     </td>
     <td width="45%" valign="top">
     <!-- Clickable repo cards -->
-    [![KTH-GPT](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=KTH-GPT&theme=radical&show_owner=true)](https://github.com/ImAlno/KTH-GPT)
+    [![KTH-GPT](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=KTH-GPT&theme=tokyonight&show_owner=true)](https://github.com/ImAlno/KTH-GPT)
     <br/><br/>
-    [![Recruitment-Application](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=Recruitment-Application&theme=radical&show_owner=true)](https://github.com/ImAlno/Recruitment-Application)
+    [![Recruitment-Application](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=Recruitment-Application&theme=tokyonight&show_owner=true)](https://github.com/ImAlno/Recruitment-Application)
     </td>
  </tr>
 </table>
@@ -46,9 +46,9 @@ During my free time, I enjoy learning about new tools, exploring tech trends, an
 
 ***
 <p align="center">
-  <img style="display:block" height="170" src="https://github-readme-stats.vercel.app/api?username=ImAlno&show_icons=true&theme=radical" />
+  <img style="display:block" height="170" src="https://github-readme-stats.vercel.app/api?username=ImAlno&show_icons=true&theme=tokyonight" />
   
   <img width="40" height="1" />
 
-  <img style="display:block" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAlno&langs_count=8&layout=compact&theme=radical" />
+  <img style="display:block" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAlno&langs_count=8&layout=compact&theme=tokyonight" />
 </p>
