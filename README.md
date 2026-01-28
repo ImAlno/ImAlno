@@ -32,12 +32,13 @@ During my free time, I enjoy learning about new tools, exploring tech trends, an
 
 ***
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImAlno&show_icons=true&theme=radical" />
+  <img style="display:block" height="170" src="https://github-readme-stats.vercel.app/api?username=ImAlno&show_icons=true&theme=radical" />
   
   <img width="40" height="1" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAlno&langs_count=8&layout=compact&theme=radical" />
+  <img style="display:block" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImAlno&langs_count=8&layout=compact&theme=radical" />
 </p>
+
 
 
 
