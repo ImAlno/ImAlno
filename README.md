@@ -17,7 +17,7 @@
     </td>
     <td width="45%" valign="top">
     <!-- Clickable repo cards -->
-    [![KTH-GPT](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=KTH-GPT&theme=tokyonight&show_owner=true)](https://github.com/ImAlno/KTH-GPT)
+    [![KTH-GPT](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=Simple-RAG-Application&theme=tokyonight&show_owner=true)](https://github.com/ImAlno/Simple-RAG-Application)
     <br/><br/>
     [![Recruitment-Application](https://github-readme-stats.vercel.app/api/pin/?username=ImAlno&repo=Recruitment-Application&theme=tokyonight&show_owner=true)](https://github.com/ImAlno/Recruitment-Application)
     </td>
