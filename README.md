@@ -1,20 +1,18 @@
 <!-- Header -->
 <div align="center">
 
-```
+<pre>
   █████╗ ██╗      ███╗   ██╗ ██████╗ 
  ██╔══██╗██║      ████╗  ██║██╔═══██╗
  ███████║██║      ██╔██╗ ██║██║   ██║
  ██╔══██║██║      ██║╚██╗██║██║   ██║
  ██║  ██║███████╗ ██║ ╚████║╚██████╔╝
  ╚═╝  ╚═╝╚══════╝ ╚═╝  ╚═══╝ ╚═════╝ 
-```
+</pre>
 
 </div>
 
-<p align="center">
-  <b>CS @ KTH Royal Institute of Technology</b>
-</p>
+<h3 align="center">CS @ KTH Royal Institute of Technology</h3>
 
 <p align="center">
   Machine Learning · Artificial Intelligence · Software Engineering
@@ -23,7 +21,10 @@
 <br>
 
 <p align="center">
-  I Build data-driven system and AI agents.<br>
+  I build data-driven systems and AI agents.
+</p>
+
+<p align="center">
   Currently wrapping up my Bachelor's thesis on <b>Agentic Retrieval-Augmented Generation</b>.
 </p>
 
