@@ -11,8 +11,8 @@
 
 Machine Learning · Artificial Intelligence · Software Engineering
 
-I build data-driven systems and AI agents.
-Currently wrapping up my Bachelor's thesis on <b>Agentic Retrieval-Augmented Generation</b>.
+Curious about AI agents, and the LLMs that power them.
+Recently completed my Bachelor's thesis on <b>Agentic Retrieval-Augmented Generation</b>.
 
 <i>"There are no accidents — only feedback for the next iteration."</i>
 
